@@ -1,0 +1,4 @@
+.venv
+models/*
+!models/download-models.sh
+!models/download-models.sh
